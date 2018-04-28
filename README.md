@@ -38,6 +38,9 @@
 
 ## Dotfiles
 
+  - [Shawn Axsom](https://github.com/axs221/dotfiles)
+    - neovim, fish shell, tmuxinator, Hyper.js, etc
+
 ## Third Party Lists
 
   - https://github.com/nikitavoloboev/my-mac-os
