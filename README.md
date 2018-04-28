@@ -16,6 +16,8 @@
 
   - Includes an "Increase Size" hotkey that other apps like Spectacle might not have
 
+## [BeardedSpice](https://beardedspice.github.io/) - Media hotkeys to control Spotify or other preferred music players
+
 ## [Insomnia](http://insomnia.rest/) - REST Client with a great UI
 
   - Paste cURL commands into the URL bar (including those copied from Chrome Network tab)
