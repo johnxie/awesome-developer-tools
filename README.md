@@ -18,14 +18,18 @@
 
 #### [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
 
-<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width="150">
+<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png">
 
 #### [Hyper](https://hyper.is/) - iTerm2 alternative shell with text-based configuration, built on Electron
+
+<img src="https://hyper.is/static/hyperyellow.gif">
 
 #### [Fish Shell](https://fishshell.com/) - Bash and Zsh alternative with batteries included
 
   - Syntax highlighting
   - Smart command completion
+  
+<img src="https://fishshell.com/assets/img/screenshots/autosuggestion.png">
 
 #### [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 
