@@ -1,47 +1,93 @@
 # Awesome Developer Tools
 
-##### Contents
+# Contents
 - [Desktop Apps](#desktop)
 - [Command Line Apps](#command-line)
+- [Text Editors](#text-editors)
 - [Dotfiles](#dotfiles)
 - [Third Party Lists](#third-party-lists)
 
-## Desktop
+# Desktop
 
-#### [Alfred](https://www.alfredapp.com/) - Spotlight search alternative
+## [Alfred](https://www.alfredapp.com/) - Spotlight search alternative
 
   - Clipboard manager with search history
   - Snippets with some scripting and templating capabilities
   - Search for Chrome or Safari bookmarks
 
-## Command Line
+## [Shift](https://tryshift.com/) - Interface container for Gmail/Inbox, Google Calendar, Google Drive
 
-#### [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
+  - There are many good alternatives, but notifications never seem to work for me for the alternatives, for example:
+    - Franz
+    - Station
+    - WaveBox
+
+<img src="https://tryshiftcdn.com/static/images/v2/shift20@2x.gif"> 
+
+# Command Line
+
+## [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
 
 <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png">
 
-#### [Hyper](https://hyper.is/) - iTerm2 alternative shell with text-based configuration, built on Electron
+## [autojump](https://github.com/wting/autojump) - Jump to recently visited folders based on partial name match
+
+```
+30   /home/user/mail/inbox
+10   /home/user/work/inbox
+```
+
+> j wor in
+
+
+## [Hyper](https://hyper.is/) - iTerm2 alternative shell with text-based configuration, built on Electron
 
 <img src="https://hyper.is/static/hyperyellow.gif">
 
-#### [Fish Shell](https://fishshell.com/) - Bash and Zsh alternative with batteries included
+## [Fish Shell](https://fishshell.com/) - Bash and Zsh alternative with batteries included
 
   - Syntax highlighting
   - Smart command completion
   
 <img src="https://fishshell.com/assets/img/screenshots/autosuggestion.png">
 
-#### [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
+## [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 
   - Declaritive set up of Tmux panes
   - Quickly set up your development environment
 
-## Dotfiles
+# Text Editors
+
+## Vim
+
+### Plugins
+
+#### [Vim-Fugitive](https://github.com/tpope/vim-fugitive) - Git integration with Vim
+
+  - Git Blame view where you can press Enter to jump to commit before a change was made to a line.
+  - Git Status, Git Diff, etc
+
+#### [Vim-Dispatch](https://github.com/tpope/vim-dispatch) - Execute commands in a Tmux pane
+
+  - Pulls results into Vim for easy paging and searching
+  
+#### [Ultisnips](https://github.com/SirVer/ultisnips) - Text-completion snippets with templating and scripting support
+
+
+#### [Vim-Quickly](https://github.com/axs221/vim-quickly) - FZF jump-to-file alternative
+
+  - CtrlP-like jump-to-file functionality, sorting by most recently used, visited, etc. A plugin I made that is similar to FZF, but uses more native Vim features like the quicklist for easy paging.
+
+#### [Vim-Dirvish](https://github.com/justinmk/vim-dirvish) - Minimal file manager, light-weight alternative to NERDtree.
+
+  - Easy to script or run commands against selected files.
+
+# Dotfiles
 
   - [Shawn Axsom](https://github.com/axs221/dotfiles)
     - neovim, fish shell, tmuxinator, Hyper.js, etc
 
-## Third Party Lists
+# Third Party Lists
 
   - https://github.com/nikitavoloboev/my-mac-os
   - https://github.com/alebcay/awesome-shell
