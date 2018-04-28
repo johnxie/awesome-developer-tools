@@ -1,24 +1,10 @@
 # Awesome Developer Tools
 
 ##### Contents
-- [Applications](#applications)
-	- [Productivity](#productivity)
-	- [Code](#code)
-	- [Social](#social)
-	- [Writing](#writing)
-	- [Design](#design)
-	- [Music](#music)
-	- [Images](#images)
-	- [Video](#video)
-	- [Finance](#finance)
-	- [Utilities](#utilities)
-	- [Browsers](#browsers)
-- [Command Line Apps](#command-line-apps)
-- [Preference Panes](#preference-panes)
-- [My wonderful world of iOS](#my-wonderful-world-of-ios-)
-- [Similar Setups](#similar-setups)
-- [Related](#related)
-- [Contributing](#contributing)
+- [Desktop Apps](#desktop)
+- [Command Line Apps](#command-line)
+- [Dotfiles](#dotfiles)
+- [Third Party Lists](#third-party-lists)
 
 ## Desktop
 
@@ -44,7 +30,7 @@
 
 ## Dotfiles
 
-## 3rd Party Lists
+## Third Party Lists
 
   - https://github.com/nikitavoloboev/my-mac-os
   - https://github.com/alebcay/awesome-shell
