@@ -4,6 +4,7 @@
 - [Desktop Apps](#desktop)
 - [Command Line Apps](#command-line)
 - [Text Editors](#text-editors)
+- [Web Browsers](#web-browsers)
 - [Dotfiles](#dotfiles)
 - [Third Party Lists](#third-party-lists)
 
@@ -55,6 +56,29 @@
 
   - Declaritive set up of Tmux panes
   - Quickly set up your development environment
+
+# Web Browsers
+
+## Chrome
+
+### Extensions
+
+#### [Tab Wrangler](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh) - Auto clean up inactive tabs
+
+  - Very customizable
+  - Saves closed tabs into a searchable list
+
+#### [Pushbullet](https://www.pushbullet.com/) - Send SMS from Chrome, or push files to or from your phone
+
+#### [Pin Tab](https://chrome.google.com/webstore/detail/pin-tab/dgldedkigbbalaioohedddpameekglma) - Simply pin the current tab in one click
+
+  - Good to use with Tab Wrangler, since Tab Wrangler doesn't close pinned tabs
+
+#### [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Vim hotkeys for Chrome
+
+  - Navigate page with h/j/k/l/g/G
+  - Open files with "f" key and an assigned letter for hyperlinks
+  - Search browser history or bookmarks
 
 # Text Editors
 
