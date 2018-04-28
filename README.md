@@ -16,6 +16,10 @@
 
 ## Command Line
 
+#### [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
+
+<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width="150">
+
 #### [Hyper](https://hyper.is/) - iTerm2 alternative shell with text-based configuration, built on Electron
 
 #### [Fish Shell](https://fishshell.com/) - Bash and Zsh alternative with batteries included
