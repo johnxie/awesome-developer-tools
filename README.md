@@ -109,6 +109,19 @@
 
   - Declaritive set up of Tmux panes
   - Quickly set up your development environment
+  
+## [W3M](http://w3m.sourceforge.net/)
+  *Text based web browser*
+
+  - Surf the web inside the terminal
+  - No images!!!
+  
+## [exa](https://the.exa.website/)
+  *Modern replacement for ls*
+  
+  - Icons
+  - Colors
+  - Github integration
 
 # Web Browsers
 
