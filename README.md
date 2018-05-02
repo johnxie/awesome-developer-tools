@@ -40,6 +40,44 @@
 
 <img src="https://tryshiftcdn.com/static/images/v2/shift20@2x.gif"> 
 
+## [Magnet](http://magnet.crowdcafe.com/)
+
+*Window manager for mac*
+
+- Snap windows to halfscreen, fullscreen
+- Keyboard shortcuts for moving windows around
+
+## [Transmit 5](https://panic.com/transmit/)
+
+*FTP/SFTP/AWS/etc file transfer*
+
+- Transmit now connects to 11 new cloud services, like Backblaze B2, Box, Google Drive, DreamObjects, Dropbox, Microsoft Azure, and Rackspace Cloud Files. 
+- Mount cloud service as a hard drive
+- Filezilla alternative for mac
+
+## [Little Snitch 4](https://www.obdev.at/products/littlesnitch/index.html)
+
+*Reverse Firewall and traffic monitor*
+
+- View and block outgoing connections
+- Capture traffic by process
+
+## [Viscosity](https://www.sparklabs.com/viscosity/)
+
+*OpenVPN client for Mac*
+
+- For all your VPN needs.
+- Scripting behaviors for VPN events
+- Menu bar icons
+
+## [Quiver](http://happenapps.com/) 
+
+*The programmers Notebook*
+
+- Markdown
+- Snippets
+- Notes
+
 # Command Line
 
 ## [FZF](https://github.com/junegunn/fzf) - Versatile fuzzy search tool that can be used for virtually any lists or input
