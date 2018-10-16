@@ -4,6 +4,7 @@
 - [Desktop Apps](#desktop)
 - [Command Line Apps](#command-line)
 - [Text Editors](#text-editors)
+- [Documentation Tools](#documentation-tools)
 - [Web Browsers](#web-browsers)
 - [Cloud Solutions](#cloud-solutions)
 - [Dotfiles](#dotfiles)
@@ -70,6 +71,14 @@
 - For all your VPN needs.
 - Scripting behaviors for VPN events
 - Menu bar icons
+
+## [Boostnote](https://boostnote.io)
+
+- Markdown-based
+- Open source
+- Sync over Dropbox or other file storage solutions
+
+They had a mobile app at one point, but it is defunct. They plan on doing a rewrite.
 
 ## [Quiver](http://happenapps.com/) 
 
@@ -147,6 +156,7 @@
   - Open files with "f" key and an assigned letter for hyperlinks
   - Search browser history or bookmarks
 
+
 # Text Editors
 
 ## Vim
@@ -172,6 +182,33 @@
 #### [Vim-Dirvish](https://github.com/justinmk/vim-dirvish) - Minimal file manager, light-weight alternative to NERDtree.
 
   - Easy to script or run commands against selected files.
+
+
+
+# Documentation Tools
+
+## [GitHub - GitbookIO/gitbook: 馃摑 Modern documentation format and toolchain using Git and Markdown](https://github.com/GitbookIO/gitbook)
+
+Gitbook has a nice UI, and WYSIWYG editor support. The menu system just allows simple groupings, it could easily get cluttered.
+
+## [GitHub - docsifyjs/docsify: 馃儚 A magical documentation site generator.](https://github.com/docsifyjs/docsify)
+
+Docsify is awesome. Similar to mkdocs, but it is more hackable. Table of contents can get nested into sidebar routes from parsing markdown file headers automagically. It does have good search support, you just import a script with a single line of code.
+
+## [GitHub - mkdocs/mkdocs: Project documentation with Markdown.](https://github.com/mkdocs/mkdocs)
+
+mkdocs isn't as flashy as Docsify, but it seemed to have slightly less of a learning curve, like building a nested nav bar is done through a simple YAML config.
+
+## [GitHub - facebook/Docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/Docusaurus)
+
+Docusaurus is Markdown + React based, and has grown in popularity recently as a Facebook project. UI is nice and it works well, but search seems only supported through Algolia, might not be a good solution for internal wiki.
+
+## [Docz](https://www.docz.site/)
+
+Looks awesome for being able to easily document and showcase your React components, easier than StoryBook
+
+
+
 
 # Cloud Solutions
 
