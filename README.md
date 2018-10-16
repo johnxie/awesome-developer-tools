@@ -6,7 +6,7 @@
 - [Text Editors](#text-editors)
 - [Documentation Tools](#documentation-tools)
 - [Web Browsers](#web-browsers)
-- [Cloud Solutions](#cloud-solutions)
+- [Task Management](#task-management)
 - [Dotfiles](#dotfiles)
 - [Third Party Lists](#third-party-lists)
 
@@ -210,9 +210,10 @@ Looks awesome for being able to easily document and showcase your React componen
 
 
 
-# Cloud Solutions
+# Task Management
 
-## Task Management
+## Cloud Solutions
+
 
 ### [Nuclino](https://nuclino.com)
 
@@ -229,6 +230,9 @@ I've heard a lot of buzz about Airtable lately and finally tried it out. It live
 Like Nuclino + Airtable.
 
 Instead of spreadsheets being the central model, an outliner knowledge base is. But they seemed to have stole much of Airtable's Kanban capabilities. While Airtable has a few additional features, Notion integrates with its building block/knowledge base approach, such that you can have essentially an outliner/wiki within each task, and you can also use double-square-brackets to link to other permanent nodes in the knowledge base.
+
+
+
 
 # Dotfiles
 
