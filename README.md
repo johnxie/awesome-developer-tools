@@ -6,7 +6,7 @@
 - [Text Editors](#text-editors)
 - [Documentation Tools](#documentation-tools)
 - [Web Browsers](#web-browsers)
-- [Task Management](#task-management)
+- [Knowledge & Task Management](#knowledge-management)
 - [Dotfiles](#dotfiles)
 - [Third Party Lists](#third-party-lists)
 
@@ -210,7 +210,7 @@ Looks awesome for being able to easily document and showcase your React componen
 
 
 
-# Task Management
+# Knowledge Management
 
 ## Cloud Solutions
 
