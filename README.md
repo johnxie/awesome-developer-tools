@@ -5,6 +5,7 @@
 - [Command Line Apps](#command-line)
 - [Text Editors](#text-editors)
 - [Web Browsers](#web-browsers)
+- [Cloud Solutions](#cloud-solutions)
 - [Dotfiles](#dotfiles)
 - [Third Party Lists](#third-party-lists)
 
@@ -171,6 +172,26 @@
 #### [Vim-Dirvish](https://github.com/justinmk/vim-dirvish) - Minimal file manager, light-weight alternative to NERDtree.
 
   - Easy to script or run commands against selected files.
+
+# Cloud Solutions
+
+## Task Management
+
+### [Nuclino](https://nuclino.com)
+
+A cloud-based outliner for taking team notes. More reasonably priced than competitors, and with a fluid UI.
+
+### [Airtable](https://airtable.com)
+
+Like Trello + Google Sheets.
+
+I've heard a lot of buzz about Airtable lately and finally tried it out. It lives up to the hype I'd say. Provides Kanban like Trello, but with very flexible custom fields, different views, more powerful and seamless "powerups". Try the "group by" features - you can essentially turn *any* fields, custom or not, into its own kanban view. Extremely flexible.
+
+### [Notion](https://www.notion.so)
+
+Like Nuclino + Airtable.
+
+Instead of spreadsheets being the central model, an outliner knowledge base is. But they seemed to have stole much of Airtable's Kanban capabilities. While Airtable has a few additional features, Notion integrates with its building block/knowledge base approach, such that you can have essentially an outliner/wiki within each task, and you can also use double-square-brackets to link to other permanent nodes in the knowledge base.
 
 # Dotfiles
 
