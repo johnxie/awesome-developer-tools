@@ -57,18 +57,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Awesome Developer Tools
-
-# Contents
-- [Desktop Apps](#desktop)
-- [Command Line Apps](#command-line)
-- [Text Editors](#text-editors)
-- [Documentation Tools](#documentation-tools)
-- [Web Browsers](#web-browsers)
-- [Knowledge & Task Management](#knowledge-management)
-- [Dotfiles](#dotfiles)
-- [Third Party Lists](#third-party-lists)
-
 # Desktop
 
 ## [CloudApp](https://www.getcloudapp.com/) - Screenshots, GIFs, and videos with annotation, security controls, and cloud storage
@@ -306,4 +294,3 @@ They had a mobile app at one point, but it is defunct. They plan on doing a rewr
 
   - https://github.com/nikitavoloboev/my-mac-os
   - https://github.com/alebcay/awesome-shell
-
