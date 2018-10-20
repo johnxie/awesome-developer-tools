@@ -80,9 +80,10 @@
   - Snippets with some scripting and templating capabilities
   - Search for Chrome or Safari bookmarks
 
-## [Shift](https://tryshift.com/) - Interface container for Gmail/Inbox, Google Calendar, Google Drive
+## [Kiwi for Gmail](https://www.kiwiforgmail.com) - Container for Gmail/Inbox, Google Calendar, Google Drive
 
-  - There are many good alternatives, but notifications never seem to work for me for the alternatives, for example:
+  - There are many good alternatives, but this one is simple, fast, and notifications work well
+    - Shift
     - Franz
     - Station
     - WaveBox
