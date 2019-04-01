@@ -43,6 +43,7 @@
     - [Nuclino](#nuclino)
     - [Airtable](#airtable)
     - [Notion](#notion)
+    - [Taskade](#taskade)
   - [Documentation Tools](#documentation-tools)
     - [GitHub - GitbookIO/gitbook: 馃摑 Modern documentation format and toolchain using Git and Markdown](#github---gitbookiogitbook-%E9%A6%83%E6%91%91-modern-documentation-format-and-toolchain-using-git-and-markdown)
     - [GitHub - docsifyjs/docsify: 馃儚 A magical documentation site generator.](#github---docsifyjsdocsify-%E9%A6%83%E5%84%9A-a-magical-documentation-site-generator)
@@ -239,8 +240,14 @@ Like Nuclino + Airtable.
 
 Instead of spreadsheets being the central model, an outliner knowledge base is. But they seemed to have stole much of Airtable's Kanban capabilities. While Airtable has a few additional features, Notion integrates with its building block/knowledge base approach, such that you can have essentially an outliner/wiki within each task, and you can also use double-square-brackets to link to other permanent nodes in the knowledge base.
 
+### [Taskade](https://www.taskade.com)
+
+Like Google Docs + Todoist + Slack.
+
+Taskade makes team productivity simple, flexible and fun. Create checklists, outlines, and notes. Whether you're ticking off daily goals, managing projects, or planning an event — getting organized with Taskade is easy and frictionless. Each document on Taskade is in a tree structure, similar to outlining tools. You are able to have infinite sub-tasks, indentations and easily collapse/uncollapse tasks.
 
 
+Easily work with team members to edit lists together in real time, manage group tasks, and brainstorm live via video chat.
 
 
 ## Documentation Tools
